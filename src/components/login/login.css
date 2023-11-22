@@ -1,0 +1,110 @@
+.contact {
+  width: 100%;
+  height: 100vh;
+  /* background-image: url('../../assets/images/bg-contact.jpg'); */
+  background-image: url('../../assets/images/wallpaperbetter (1).jpg');
+  /* background-image: url('https://p4.wallpaperbetter.com/wallpaper/385/360/993/car-porsche-workshop-vehicle-wallpaper-preview.jpg'); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact__wrapper {
+  width: 420px;
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, .1);
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+  color: #FFFFFF;
+  border-radius: 10px;
+  padding: 40px 30px;
+}
+
+.contact__title {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form__label {
+  /* background-color: tomato; */
+  position: relative;
+  width: 100%;
+  height: 50px;
+  display: inline-block;
+  margin: 10px 0;
+}
+
+.form__label input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border: 2px solid rgba(255, 255, 255, .2);
+  border-radius: 40px;
+  font-size: 1rem;
+  color: #FFFFFF;
+  padding: 20px 45px 20px 20px;
+}
+
+.form__label input::placeholder {
+  color: white;
+}
+
+.form__label i {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 22px;
+}
+
+.form__remember-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: .8rem;
+  margin: 20px 0;
+}
+
+.form__remember-forgot label input {
+
+  accent-color: #FFFFFF;
+  margin-right: 3px;
+}
+
+.form__remember-forgot a:hover {
+  text-decoration: underline;
+}
+
+.form__btn {
+  height: 45px;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+  cursor: pointer;
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+}
+
+.form__register-link {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14.4px;
+}
+
+.form__register-link p a {
+  color: #ffff;
+  font-weight: 600;
+}
+
+.form__register-link p a:hover {
+  text-decoration: underline;
+}

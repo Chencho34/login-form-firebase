@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@200;300;400;500;600;700&family=Montserrat:wght@300;400;500;600&display=swap');
+
+
+:root {
+  --font-family: 'Exo', sans-serif;
+  
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+
+  --background-color: #050505;
+  --text-color: #e5e5e6;
+  --primary-color: #535355;
+  --secondary-color: #1f1e1f;
+  --accent-color: #858386;
+}
