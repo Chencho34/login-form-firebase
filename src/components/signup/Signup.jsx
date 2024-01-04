@@ -4,7 +4,6 @@ import './signup.css'
 import { createUserWithEmailAndPassword, onAuthStateChanged} from 'firebase/auth'
 import { firebaseAuth } from "../../firebase-config";
 
-
 export default function Signup() {
   const navigate = useNavigate()
 

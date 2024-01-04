@@ -79,6 +79,13 @@
   text-decoration: underline;
 }
 
+.form__remember-forgot label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
 .form__btn {
   height: 45px;
   width: 100%;
@@ -112,3 +119,4 @@
 .form__register-link p a:hover {
   text-decoration: underline;
 }
+
