@@ -6,7 +6,15 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Description
 
+This project consists of a form that offers registration and login functionality for users. It uses React Router Dom to handle application routes and has protected routes to control access to certain views. Firebase, a mobile and web application development platform, has been implemented for user management, allowing user registration and authentication. The stylization has been carried out using CSS3 with the BEM methodology, providing an attractive and modular design.
+
 ## Characteristics
+
+* User registration and login.
+* Protected paths to control access to specific views.
+* Using React Router Dom for routing.
+* Firebase implementation for user management and authentication.
+* Styling with CSS3 following the BEM methodology for an attractive and modular design.
 
 ## Screenshots
 
@@ -46,5 +54,7 @@ Developer: Chencho34
 
 ## Implemented technologies.
 
-* [React Router Dom]()
-* [Firebase]()
+* [React](https://react.dev/)
+* [React Router Dom](https://reactrouter.com/en/main)
+* [Firebase](https://console.firebase.google.com/)
+* CSS3 (BEM)
