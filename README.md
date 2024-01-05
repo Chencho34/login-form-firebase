@@ -1,8 +1,47 @@
-# React + Vite
+# Login Form | Firebase
+
+## Project Create With React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Characteristics
+
+## Screenshots
+
+![]()
+
+## Install
+
+Clone this repository:
+
+```bash
+git clone https://github.com/Chencho34/login-form-firebase
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+## Execute Project
+
+```bash
+npm run dev
+```
+
+Runs the app in the development mode.
+Open [http://localhost](http://localhost) to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+## Author
+
+Developer: Chencho34
+
+## Implemented technologies.
+
+* []()
